@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: 'Kent C. Dodds', // Navigation and Site Title
-  siteTitleAlt: 'The personal website of Kent C. Dodds', // Alternative Site title for SEO
-  siteTitleShort: 'kentcdodds', // short_name for manifest
-  siteUrl: process.env.ROOT_URL || 'https://kentcdodds.com', // Domain of your site. No trailing slash!
+  siteTitle: 'KODRS', // Navigation and Site Title
+  siteTitleAlt: 'KOREA Manufacture BLDC Motor K-Series', // Alternative Site title for SEO
+  siteTitleShort: 'K-Series BLDC MOTOR', // short_name for manifest
+  siteUrl: process.env.ROOT_URL || 'https://kodrs.github.io', // Domain of your site. No trailing slash!
   lang: 'en', // Language Tag on <html> element
   pathPrefix: '/',
   siteLogo: 'images/logo.png', // Used for SEO and manifest, path to your image you placed in the 'static' folder
